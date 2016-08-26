@@ -2,6 +2,6 @@
     "GA_Tracking_ID": "UA-000000-0",
     "GA_Enabled": false,
     "DB_Use_Mongo" : true,
-    "DB_Mongo_URL": "mongodb://mongodb:27017/retro-board",
+    "DB_Mongo_URL": "mongodb://mongodb-retro-board:27017/retro-board",
     "Use_Anti_Spam": false
 }
