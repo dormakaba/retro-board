@@ -34,6 +34,8 @@ node_modules
 
 build
 persist
-configuration.json
 assets
 stats
+
+# Intellij IDEA project files
+.idea
